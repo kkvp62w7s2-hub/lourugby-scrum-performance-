@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#14171A"/>
+  <rect x="0" y="0" width="512" height="28" fill="#C8102E"/>
+  <circle cx="256" cy="220" r="142" fill="#1F242A" stroke="#C8102E" stroke-width="12"/>
+  <path d="M148 236c34-58 182-58 216 0M160 278c44-38 148-38 192 0" fill="none" stroke="#EDEBE4" stroke-width="24" stroke-linecap="round"/>
+  <path d="M188 188l-42 92M324 188l42 92M220 168l-18 118M292 168l18 118" fill="none" stroke="#98A1AA" stroke-width="18" stroke-linecap="round"/>
+  <text x="256" y="408" text-anchor="middle" fill="#EDEBE4" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800">LOU SCRUM</text>
+  <text x="256" y="452" text-anchor="middle" fill="#98A1AA" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="4">PERFORMANCE</text>
+</svg>
